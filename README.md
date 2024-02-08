@@ -1,12 +1,8 @@
-#
-
-About the repo
+# About the repo
 
 This project allows you to create a folder structure for a fullstack project using typescript, nodejs, javaScript SQL, HTML & CSS
 
-###
-
-How It Works
+## How It Works
 
 1. Clone the [repo](https://github.com/kennynet66/node_init) in the directory you want to create the template folders by running the command
     `git clone https://github.com/kennynet66/node_init` on your terminal.
